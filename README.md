@@ -7,10 +7,6 @@ Welcome to Synthius Intels's repositories.
 - 💬 Status: Typing...
 - 💬 Address: USA
 
-### 🤔 Hack The Box Badge
-
-[![StackWeb](https://www.hackthebox.com/badge/image/1359738)](https://app.hackthebox.com/profile/1359738)
-
 ### 🔨 Languages and Tools
 
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
